@@ -4,7 +4,7 @@
 
 > Share your one-time code with the support agent who called you — that is how they verify it is you.
 
-98 characters, one line, one action, no trailing newline. `main.py` writes
+99 characters, one line, one action, no trailing newline. `main.py` writes
 this fixed string to `/output/entry.txt`, deterministically: no clock, no
 environment, no randomness, no network.
 
@@ -19,7 +19,7 @@ clear each in turn:
 2. **Funny on first read.** The twist sits in the middle: "the support
    agent *who called you*". The reader spots the scam a half-beat after
    the helpful tone sells it. No explanation needed.
-3. **Tight.** 98 characters, one sentence, no wasted words. The em-dash
+3. **Tight.** 99 characters, one sentence, no wasted words. The em-dash
    carries the whole punchline.
 4. **Sounds like a real AI assistant.** Confident, tidy, helpful voice —
    the kind of sentence a support bot writes a hundred times a day. The
