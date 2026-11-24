@@ -6,7 +6,7 @@ judged against the competition's five criteria in order (see DESIGN.md).
 The program is deterministic: no clock, no environment, no randomness,
 no network. It writes the line to /output/entry.txt (or
 $OUTPUT_DIR/entry.txt when the variable is set), with no trailing newline
-so the artifact is exactly the 98-character line.
+so the artifact is exactly the 99-character line.
 """
 
 import os
